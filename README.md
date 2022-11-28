@@ -1,7 +1,7 @@
 # 👋 Hello, Devs!
 
 
-![jin mori](https://i.pinimg.com/originals/6c/bc/50/6cbc502aef9536106c0099aa48d2d596.gif)
+![jin-mori](https://user-images.githubusercontent.com/112659736/204279389-d7b0e374-0cca-46fa-b811-cfa5d0eb6bcf.gif)
 
 ![Snake animation](https://github.com/pablootechar/pablootechar/blob/output/github-contribution-grid-snake.svg)
 
