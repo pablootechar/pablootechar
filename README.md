@@ -1,5 +1,7 @@
 # 👋 Hello, Devs!
 
+<img src="https://i.pinimg.com/originals/6c/bc/50/6cbc502aef9536106c0099aa48d2d596.gif" height="200px" />
+
 ![Snake animation](https://github.com/pablootechar/pablootechar/blob/output/github-contribution-grid-snake.svg)
 
 - 💻 I'm studying systems development
