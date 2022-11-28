@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Hello, Devs!
 
-<!--
-**pablootechar/pablootechar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Snake animation](https://github.com/pablootechar/pablootechar/blob/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
+- 💻 I'm studying systems development
+- 👻 Looking to learn a little more about web and mobile development
+- 🌏 Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tools and Technologies
+
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80px" />
+</div>
+
+<div>
+<a href="https://github.com/pablootechar">
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablootechar&layout=compact&langs_count=7&theme=dracula"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=pablootechar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
