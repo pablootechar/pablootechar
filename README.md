@@ -1,7 +1,5 @@
 #  Hello, Devs 🍷🗿
 
-![Profile views](https://gpvc.arturio.dev/pablootechar)
-
 ![jin-mori](https://user-images.githubusercontent.com/112659736/204279389-d7b0e374-0cca-46fa-b811-cfa5d0eb6bcf.gif)
 
 ![Snake animation](https://github.com/pablootechar/pablootechar/blob/output/github-contribution-grid-snake.svg)
@@ -26,3 +24,5 @@
 <a href="https://github.com/pablootechar">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablootechar&layout=compact&langs_count=7&theme=tokyonight"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=pablootechar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
+  ![Profile views](https://gpvc.arturio.dev/pablootechar)
