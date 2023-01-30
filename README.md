@@ -13,7 +13,7 @@
 <br>
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; margin-bottom: 30px">
-    <div style="height: 26px; display: flex; flex-direction: row; align-items: center; width: 150px; background: #61DBFB; padding: 3px 5px; justify-content: space-around; border-radius: 8px;">
+    <div style="height: 26px; display: flex; flex-direction: row; align-items: center; width: 150px; background: #61DBFB; padding: 3px 5px; justify-content: space-around; border-radius: 8px; position: relative;">
         <img src="https://static-00.iconduck.com/assets.00/react-icon-512x456-5xl7nmtw.png" alt="">
         <span style="margin-left: -15px; font-family: consolas; font-size: 18px; font-weight: bold; color: black;">React Js</span>
     </div>
