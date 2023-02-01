@@ -11,33 +11,21 @@
 
 ## Tools and Technologies
 <br>
-
-<div style="display: flex; flex-direction: row; width: 1000px ">
+  <div style="display: flex; flex-direction: row; justify-content: space-between">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60px" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60px" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60px" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60px" />
+  </div>
+  
   <div>
     <a href="https://github.com/pablootechar">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablootechar&layout=compact&langs_count=7&theme=tokyonight"/>
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pablootechar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </div>
-
-  <div style="display: flex; flex-direction: column; justify-content: space-between">
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60px" />
-    </div>
-    <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60px" />
-    </div>
-  </div>
-</div>
   
-</div>
-
-
-
- 
 ![Snake animation](https://github.com/pablootechar/pablootechar/blob/output/github-contribution-grid-snake.svg)
 
 ![Profile views](https://gpvc.arturio.dev/pablootechar)
