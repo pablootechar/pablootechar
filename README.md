@@ -12,7 +12,7 @@
 ## Tools and Technologies
 <br>
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; width: 1000px ">
   <div>
     <a href="https://github.com/pablootechar">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablootechar&layout=compact&langs_count=7&theme=tokyonight"/>
