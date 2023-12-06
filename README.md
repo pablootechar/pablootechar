@@ -1,4 +1,4 @@
-#  Hello, Devs 🍷🗿
+#  Hello, Devs 🍷
 
 ## A little about myself
 <br>
