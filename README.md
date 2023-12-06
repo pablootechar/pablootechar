@@ -1,7 +1,5 @@
 #  Hello, Devs 🍷🗿
 
-![jin-mori](https://user-images.githubusercontent.com/112659736/204279389-d7b0e374-0cca-46fa-b811-cfa5d0eb6bcf.gif)
-
 ## A little about myself
 <br>
 
