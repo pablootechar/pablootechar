@@ -3,7 +3,7 @@
 ## A little about myself
 <br>
 
-- 💻 I'm studying systems development
+- 💻 I'm studying Analisys and Systen Deeveloper
 - 👻 Looking to learn a little more about web and mobile development
 - 🌏 Brazil
 
