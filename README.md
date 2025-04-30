@@ -3,9 +3,12 @@
 ## A little about myself
 <br>
 
-- 💻 I'm studying Analisys and Systen Deeveloper
-- 👻 Looking to learn a little more about web and mobile development
-- 🌏 Brazil
+- Graduated in Systems Development at ETEC  
+- Web Developer focused on building functional and responsive web apps  
+- Experience with frontend and backend (JS, React, PHP, MySQL)  
+- Currently learning: Clean Architecture, Performance Optimization  
+- Previous learnings: REST APIs, UI/UX, Responsive Design, Linux basics
+
 
 ## Tools and Technologies
 <br>
